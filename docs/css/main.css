@@ -81,7 +81,7 @@ main section#card li span {
   position: absolute;
   width: 30px;
   height: 30px;
-  background-color: #cbdeff;
+  background-color: #55a0ff;
   border-radius: 50%;
   margin-right: 10px;
 }
@@ -125,7 +125,7 @@ main section#primary p {
 }
 
 main section#primary a {
-  color: #001232;
+  color: black;
   border-radius: 15px;
   text-decoration: none;
   text-transform: uppercase;
